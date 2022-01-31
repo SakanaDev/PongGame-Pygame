@@ -4,6 +4,8 @@ To this project I built the Pong Game in Python from scratch using Pygame librar
 
 Pong is a table tennis–themed arcade sports video game, featuring simple two-dimensional graphics, manufactured by Atari and originally released in 1972.
 
+
+## Set Up
 To install the Pygame library, use the command below: 
 
 Windwos:
