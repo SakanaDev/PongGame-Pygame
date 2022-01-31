@@ -14,6 +14,11 @@ Windwos:
 pip install pygame
 ```
 
+MacOS:
+```
+pip3 install pygame
+```
+
 Linux:
 ```
 pip3 install pygame
