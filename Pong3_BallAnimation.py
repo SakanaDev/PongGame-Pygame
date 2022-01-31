@@ -28,8 +28,8 @@ edge_3 = py.Rect(screen_width - 2, 0, 4, 858)
 edge_4 = py.Rect(0, screen_height - 2, 858, 4)
 
 # Game Variable
-ball_speed_x = 7 * random.choice((1, -1))
-ball_speed_y = 7 * random.choice((1, -1))
+ball_speed_x = 7
+ball_speed_y = 7
 
 def ball_animation():
 	global ball_speed_x, ball_speed_y
