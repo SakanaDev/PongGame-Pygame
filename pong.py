@@ -44,8 +44,8 @@ score_time = None
 time_font = py.font.Font('freesansbold.ttf', 70)
 
 # Sound
-pong_sound = py.mixer.Sound("C://Users//Queralt Peix//Documents//Pong//pong.ogg")
-score_sound = py.mixer.Sound("C://Users//Queralt Peix//Documents//Pong//score.ogg")
+pong_sound = py.mixer.Sound("your-route//pong.ogg") # Change the path or route
+score_sound = py.mixer.Sound("your-route//score.ogg") # Change the path or route
 
 
 def ball_animation():
