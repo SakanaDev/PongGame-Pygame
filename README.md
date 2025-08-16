@@ -65,10 +65,4 @@ pip3 install pygame
 
 ---
 
-## Contribution
-
-Feel free to fork the project and submit pull requests! Whether it’s improving gameplay, adding new features, or fixing bugs — contributions are welcome.
-
----
-
 Enjoy playing Pong! 🏓
